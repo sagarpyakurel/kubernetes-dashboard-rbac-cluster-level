@@ -2,4 +2,9 @@
 
 ![Page 1](first-page.png)
 
-[View Full PDF](project_documentation.pdf)
+
+<div align="center">
+## 📄 **👉 View Full Project Documentation (PDF)**
+### 🔗  
+**<a href="https://github.com/sagarpyakurel/kubernetes-dashboard-rbac-cluster-level/blob/main/project_documentation.pdf">CLICK HERE TO OPEN THE FULL PDF</a>**
+</div>
