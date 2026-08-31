@@ -7,4 +7,4 @@
 
 
 ## Project Documentation:
-[![First Page](projectdoc/first-page.png)](https://github.com/sagarpyakurel/kubernetes-dashboard-rbac-cluster-level/blob/main/projectdoc/project_documentation.pdf)
+[![First Page](projectdoc/firstpage.png)](https://github.com/sagarpyakurel/kubernetes-dashboard-rbac-cluster-level/blob/main/projectdoc/projectdocumentation.pdf)
