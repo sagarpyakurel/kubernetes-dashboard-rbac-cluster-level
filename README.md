@@ -1,10 +1,12 @@
-## 📄 Project Documentation (Rendered Pages)
+## 📄 Project Documentation
 
-![Page 1](first-page.png)
-
+![First Page](first-page.png)
 
 <div align="center">
-## 📄 **👉 View Full Project Documentation (PDF)**
-### 🔗  
-**<a href="https://github.com/sagarpyakurel/kubernetes-dashboard-rbac-cluster-level/blob/main/project_documentation.pdf">CLICK HERE TO OPEN THE FULL PDF</a>**
+
+# 🚨 **🔴 CLICK BELOW TO OPEN FULL PDF 🔴**
+
+[![OPEN FULL PDF](https://img.shields.io/badge/OPEN_FULL_PDF-CLICK_HERE-ff0000?style=for-the-badge)](https://github.com/sagarpyakurel/kubernetes-dashboard-rbac-cluster-level/blob/main/project_documentation.pdf)
+
 </div>
+
